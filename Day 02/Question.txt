@@ -1,0 +1,1 @@
+Q.2 Ask user marks from user and print the total.

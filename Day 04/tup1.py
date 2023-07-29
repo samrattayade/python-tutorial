@@ -1,0 +1,5 @@
+x=('physics','chemistry','math')
+print("first tuple:",x)
+print(type(x))
+y=(1,2,3,4,5)
+print(y)

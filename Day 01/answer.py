@@ -1,0 +1,5 @@
+print("hi who are you?")
+name=input()
+print("so",name,"how old are you ?")
+age=input()
+print("you are",age,"year old",name)
